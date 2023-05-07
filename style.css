@@ -1,0 +1,111 @@
+/* Style section for Homepage  */
+body{
+    font-family: 'Nunito', sans-serif;
+}
+
+.homenavigation {
+    padding: 0px 130px;
+}
+
+.homemaincontent {
+    display: flex;
+    display: 1;
+    justify-content: space-between;
+    padding: 90px 130px;
+}
+
+.homebuttons {
+    font-size: x-large;
+    background-color: rgba(152,105,255,255);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    width: 200px;
+    height: 40px;
+}
+
+.homesection1 {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 130px;
+}
+.homesection1 h3{
+    display: inline;
+    padding-left: 10px;
+}
+
+.newsletter {
+    height: 400px;
+    background-color: rgba(152,105,255,255);
+    text-align: center;
+}
+
+.newsletter h1{
+    color: white;
+    padding-top: 120px;
+    padding-bottom: 50px;
+}
+
+.newsletterbar{
+    width: 700px;
+    height: 50px ;
+    background-color:rgba(217,217,217,255);
+    border: none;
+    border-radius: 10px;
+}
+::placeholder{
+    font-weight: 800;
+    padding-left: 15px;
+}
+
+.newsletterbutton{
+    font-size: x-large;
+    background-color: rgba(152,105,255,255);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    width: 150px;
+    height: 40px;
+    position: relative;
+    top: -45px;
+    left: 270px;
+}
+.verticalline{
+    border-bottom: 2px solid rgb(184, 184, 184);
+    border-radius: 10px;
+    width: auto;
+    margin: 0px 132px
+}
+
+footer{
+    text-align: center;
+    color: rgb(184, 184, 184);
+}
+
+.socials{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 130px;
+}
+
+/* Style section for Homepage  */
+
+
+/* Style section for Catalog  */
+.b1{
+    margin: 5rem;
+}
+.titulo {
+    text-align: left;
+    font-size: 3rem;
+    padding-left: 300px;
+    padding-top: 100px;
+}
+.c1 {
+    padding-top: 5rem;
+}
+/*Style section for Catalog*/
+
+/*Style section for Contact*/
+
+/* Style section for Catalog  */
